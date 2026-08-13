@@ -8,7 +8,7 @@ Today, I'm focused on becoming a **Pentester** and **Software Engineer**, while 
 
 💻 Technologies I enjoy working with: **Python, HTML, CSS, JavaScript**  
 🌍 Freelancing at [ratostudio.co.za](https://ratostudio.co.za)  
-📚 Currently studying 
+📚 Currently studying                                                  
 🔐 Interested in penetration testing, software engineering, and web security  
 ⚡ Quick learner, problem solver, improviser, and guided by faith
 
