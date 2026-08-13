@@ -34,7 +34,7 @@ Today, I'm focused on becoming a **Pentester** and **Software Engineer**, while 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-## 🎬 SEE YOU SOON
+## I'm Different👤
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNvM2Z5MDMweGM5Zm5qb2htajhrYmZzdXQxeTRtdjNyeW00cno3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dqINnqA7Vhx3XbVe8z/giphy.gif" alt="Batman Animated GIF" width="300"/>
