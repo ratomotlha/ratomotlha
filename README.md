@@ -37,6 +37,6 @@ Today, I'm focused on becoming a **Pentester** and **Software Engineer**, while 
 ## 🎬 SEE YOU SOON
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGE0anVtZXRheW5nc21nemt4YmdveWs0Yzd3NzBpYm5pMHZwMThzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4jfJqiIxvU08/giphy.gif" alt="Batman Animated GIF" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNvM2Z5MDMweGM5Zm5qb2htajhrYmZzdXQxeTRtdjNyeW00cno3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dqINnqA7Vhx3XbVe8z/giphy.gif" alt="Batman Animated GIF" width="300"/>
 </p>
 
