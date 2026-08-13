@@ -12,10 +12,11 @@ Today, I'm focused on becoming a **Pentester** and **Software Engineer**, while 
 🔐 Interested in penetration testing, software engineering, and web security  
 ⚡ Quick learner, problem solver, improviser, and guided by faith
 
-## 📊 GitHub Stats
+## 🛠️ Languages & Tools
 
-![Olorato's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratomotlha&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratomotlha&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ratomotlha&theme=radical)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
