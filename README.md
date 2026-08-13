@@ -1,7 +1,6 @@
 # Hey, I'm Olorato  👋🏾 👨‍💻
 
 <img src="https://raw.githubusercontent.com/ratomotlha/ratomotlha/master/headerimg.png" alt="banner that says Olorato Motlhabane - IT Student , Freelancer , Web designer & developerr and community organizer alongside a cartoon illustration of Olorato">
-# Hi, I'm Olorato 👋
 
 I'm an IT student and freelancer passionate about technology, problem-solving, and ethical hacking.  
 My journey started at 12 when I explored hacking as a script kiddie, later editing tools as a teenager.  
