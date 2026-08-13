@@ -35,4 +35,12 @@ Today, I'm focused on becoming a **Pentester** and **Software Engineer**, while 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
+## 🎬 Favorite Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Batman Animated GIF" width="300"/>
+</p>
+
+*Batman: The Animated Series* — timeless storytelling, dark atmosphere, and a huge inspiration for creative problem‑solving.
+
 
