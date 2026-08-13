@@ -1,4 +1,4 @@
-# Hey, I'm Olorato  👋🏾 👩🏾‍💻
+# Hey, I'm Olorato  👋🏾 👨‍💻
 
 <img src="https://raw.githubusercontent.com/ratomotlha/ratomotlha/master/headerimg.png" alt="banner that says Olorato Motlhabane - IT Student , Freelancer , Web designer & developerr and community organizer alongside a cartoon illustration of Olorato">
 # Hi, I'm Olorato 👋
